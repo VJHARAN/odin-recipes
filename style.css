@@ -1,0 +1,37 @@
+body{
+    background-color: #8400ff;
+    color:rgb(112, 254, 216);
+}
+.headings{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.headings.main{
+    font-weight:900;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #9c37f5d0;
+}
+.headings.sub{
+    font-weight:500;
+
+}
+.items a{
+    color:#f9f9f9;
+}
+#home{
+    font-size:23px;
+    font-weight:600;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    color:rgb(255, 255, 33);
+}
+li a{
+    color:rgb(230, 255, 2)
+}
+.ulindex{ color:rgb(242, 0, 255);
+    
+}
+ strong{
+    color:rgb(0, 0, 0);
+ }
