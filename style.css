@@ -6,10 +6,12 @@ body{
 .headings{
     
     font-family:'Times New Roman', Times, serif;
+    
 }
 
 .headings.main{
     color:  #0a597a;
+    background-color: #8ff2e5;
     font-weight:900;
     font-family: 'Courier New', Courier, monospace;
    
