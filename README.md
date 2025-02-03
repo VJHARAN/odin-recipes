@@ -15,4 +15,5 @@
 <h3>Technologies used</h3>
 <ul>
     <li>HTML5</li>
+    <li>CSS3</li>
 </ul>
