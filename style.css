@@ -1,37 +1,36 @@
 body{
-    background-color: #8400ff;
-    color:rgb(112, 254, 216);
+    font-size:25px;
+    background-color: #AFDDE5;
+    color:#024950;
 }
 .headings{
-    color:white;
+    
     font-family:'Times New Roman', Times, serif;
 }
 
 .headings.main{
+    color:  #0a597a;
     font-weight:900;
     font-family: 'Courier New', Courier, monospace;
-    background-color: #9c37f5d0;
+   
 }
 .headings.sub{
+    color:#0FA4AF;
     font-weight:500;
 
 }
-.items a{
-    color:#f9f9f9;
-}
+ 
 #home{
     font-size:23px;
     font-weight:600;
     font-family:'Courier New', Courier, monospace;
     text-align:center;
-    color:rgb(255, 255, 33);
+    color:#964734;
 }
 li a{
-    color:rgb(230, 255, 2)
+    color:#964734;
 }
-.ulindex{ color:rgb(242, 0, 255);
-    
-}
+ 
  strong{
     color:rgb(0, 0, 0);
  }
