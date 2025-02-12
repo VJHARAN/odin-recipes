@@ -17,13 +17,13 @@ body{
     
     font-weight:900;
     font-family: 'Courier New', Courier, monospace;
-    border:5px dashed white;
+    border:8px dashed white;
     width:fit-content;
     text-align:center;
     margin:0 auto;
     margin-bottom:40px;
     padding:15px;
-    border-bottom:5px double;
+    border-bottom:10px double;
     
      
    
@@ -41,9 +41,12 @@ body{
     text-align:center;
     width:fit-content;
     margin:20px auto 40px;
-    display:block;
-    border-bottom:5px solid#f2fda2;
-    
+    display:block;  
+    border: 10px solid  #964734;
+    border-bottom:8px double #964734;
+    border-top:8px double #964734; ;
+    background-color: #f2fda2;
+    padding:10px;
 }
 #home,li a{
     text-decoration: none;
@@ -58,10 +61,12 @@ body{
     
  }
 
- .ul-index li{
+.ul-index li{
     margin :20px;
-    border: 4px dashed #f2fda2;
-    border-bottom:4px double#f2fda2;
+    border: 15px solid  #964734;
+    border-bottom:10px double #964734;
+    border-top:10px double #964734; ;
+    background-color: #f2fda2;
     padding:10px;
     
  }
