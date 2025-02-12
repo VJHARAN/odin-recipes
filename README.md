@@ -5,7 +5,7 @@
 
 <!-- <h3>Project Screenshot</h3> -->
 
-<h3><a href="./index.html">view project</a></h3>
+<h3><a href="https://vjharan.github.io/odin-recipes/">view project</a></h3>
 <h3>Recipes</h3>
 <ul>
     <li>American Goulash</li>
