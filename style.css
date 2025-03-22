@@ -68,6 +68,7 @@ body{
     border-top:10px double #964734; ;
     background-color: #f2fda2;
     padding:10px;
+    border-radius: 8px;
     
  }
  strong{
@@ -79,4 +80,8 @@ img{
 
 }
 
+li:hover{
+ border-style:outset;
+ border: 10px solid  #e5c185;
+}
  
